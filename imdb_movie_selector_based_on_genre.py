@@ -72,36 +72,3 @@ elif output == "Mystery":
     movie = random.choice(mystery_movies['Series_Title'].tolist())
     final = msgbox("Your movie based on genre is: "+str(movie))
 
-    
-    
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
